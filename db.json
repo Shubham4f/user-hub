@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890",
+      "creation_date": "2023-01-01",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "phone": "234-567-8901",
+      "creation_date": "2023-01-02",
+      "password": "password2"
+    },
+    {
+      "id": 3,
+      "username": "alex_jones",
+      "email": "alex.jones@example.com",
+      "phone": "345-678-9012",
+      "creation_date": "2023-01-03",
+      "password": "password3"
+    },
+    {
+      "id": 4,
+      "username": "emily_davis",
+      "email": "emily.davis@example.com",
+      "phone": "456-789-0123",
+      "creation_date": "2023-01-04",
+      "password": "password4"
+    },
+    {
+      "id": 5,
+      "username": "michael_clark",
+      "email": "michael.clark@example.com",
+      "phone": "567-890-1234",
+      "creation_date": "2023-01-05",
+      "password": "password5"
+    },
+    {
+      "id": 6,
+      "username": "sarah_miller",
+      "email": "sarah.miller@example.com",
+      "phone": "678-901-2345",
+      "creation_date": "2023-01-06",
+      "password": "password6"
+    },
+    {
+      "id": 7,
+      "username": "peter_wilson",
+      "email": "peter.wilson@example.com",
+      "phone": "789-012-3456",
+      "creation_date": "2023-01-07",
+      "password": "password7"
+    },
+    {
+      "id": 8,
+      "username": "olivia_martin",
+      "email": "olivia.martin@example.com",
+      "phone": "890-123-4567",
+      "creation_date": "2023-01-08",
+      "password": "password8"
+    },
+    {
+      "id": 9,
+      "username": "david_hill",
+      "email": "david.hill@example.com",
+      "phone": "901-234-5678",
+      "creation_date": "2023-01-09",
+      "password": "password9"
+    },
+    {
+      "id": 10,
+      "username": "laura_adams",
+      "email": "laura.adams@example.com",
+      "phone": "012-345-6789",
+      "creation_date": "2023-01-10",
+      "password": "password10"
+    }
+  ]
+}
