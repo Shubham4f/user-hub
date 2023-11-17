@@ -25,3 +25,13 @@ Before you get started, ensure that you have the following installed on your mac
     ```bash
     npm run dev
 5. **Now, you should have the project running locally on your machine.**
+
+## Lighthouse Score for the Build Version
+
+- **Performance:** 100
+- **Accessibility:** 91
+- **Best Practices:** 100
+- **SEO:** 89
+> **Note:** The scores provided above are specifically for the ***build version*** of the project.
+
+ ![lighthouse](lighthouse.png)
