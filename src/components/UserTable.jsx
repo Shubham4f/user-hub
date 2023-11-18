@@ -1,4 +1,3 @@
-import { memo } from "react";
 function UserTable({ users, handlePoUp }) {
 
   return (
@@ -41,4 +40,4 @@ function UserTable({ users, handlePoUp }) {
     </div>
   );
 }
-export default memo(UserTable);
+export default UserTable;
